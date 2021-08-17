@@ -5,4 +5,4 @@ In the flow, there are additional steps to _historicise_ the data within the day
 
 ![alt text](https://github.com/ferrap/tableau-prep-bitcoin/blob/main/Prep%20flow.jpg "Tableau Prep Flow")
 
-Alternatively, I also developed a Web Data Connector to connect Tableau to Bitcoin data, check [here](https://github.com/ferrap/tableau-wdc-bitcoin). More resources about this, also available [here](https://levelup.gitconnected.com/connect-tableau-to-bitcoin-data-a9ff1a03a4f4).
+Alternatively, I developed a [Web Data Connector](https://github.com/ferrap/tableau-wdc-bitcoin) to connect Tableau to Bitcoin data. Also, check [here](https://levelup.gitconnected.com/connect-tableau-to-bitcoin-data-a9ff1a03a4f4) for more information on this topic.
